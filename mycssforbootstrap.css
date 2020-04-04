@@ -1,0 +1,15 @@
+.btn-danger {
+    color: black;
+    background-color: yellow;
+    border-color: #dc3545;
+}
+
+.btn-danger:hover {
+	color: black;
+	background-color: yellow;
+}
+
+.col {
+	background-color: grey;
+	border: 2px solid black;
+}

@@ -1,0 +1,33 @@
+a {
+	color: red
+}
+
+/*p {
+	color: blue
+}*/
+
+li {
+	color: blue;
+	display: inline-block;
+}
+
+.table1   p {
+	color: red;
+}
+
+.table1 {
+	color: green;
+	font-family: 'Liu Jian Mao Cao', cursive;
+	font-size: 50px;
+}
+
+.thisbox {
+	border: 5px solid red;
+	display: inline-block;
+	padding: 5px 20px;
+	margin:0px 20px;
+	width:33px;
+	height:55px;
+	background-color: yellow;
+
+}
